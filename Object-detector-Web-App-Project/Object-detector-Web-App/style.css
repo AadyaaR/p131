@@ -1,0 +1,30 @@
+body
+{
+background-size: cover;
+background-position: center;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+#a
+{
+ background-size: cover;
+ background-position: center;
+ color: hotpink;
+ background-color: #36f4ce;
+ color: rgb(7, 1, 1);
+ padding: 14px 25px;
+ text-align: center;
+ text-decoration: none;
+ display: inline-block;
+}
